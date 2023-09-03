@@ -1,10 +1,18 @@
 .jumbotron {
   padding-top: 5rem;
-  background-color: #e2edff;
+  background-image: url("BackgroundJumbotron.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#contact {
+  background-color: #0d6efd;
 }
 
 #project {
-  background-color: #e2edff;
+  background-color: #ffffff;
 }
 
 section {

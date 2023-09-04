@@ -8,7 +8,11 @@
 }
 
 #contact {
-  background-color: #0d6efd;
+  background-image: url("BackgroundContact.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 #project {
@@ -17,4 +21,8 @@
 
 section {
   padding-top: 5rem;
+}
+
+footer {
+  background-color: #080808;
 }
